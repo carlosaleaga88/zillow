@@ -1,5 +1,5 @@
 {
-    "name": "dfreer/zillow",
+    "name": "carlosaleaga88/zillow",
     "description": "Laravel 5 Zillow api wrapper. This code is a fork from vinceg/zillow",
     "keywords": ["zillow", "php", "api"],
     "license": "MIT",
